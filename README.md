@@ -16,7 +16,7 @@ The primary objective of this project is to predict whether a sonar return indic
 
 ## Data
 
-The dataset used for this project is the Sonar, Mines vs. Rocks dataset from the UCI Machine Learning Repository. Each pattern is a set of 60 numbers in the range 0.0 to 1.0.
+The dataset used for this project is the Sonar, Mines vs. Rocks dataset from the UCI Machine Learning Repository. Each pattern is a set of 60 numbers in the range 0.0 to 0.3
 
 ## Method
 
